@@ -40,7 +40,7 @@
             float primeiroValor = float.Parse(Console.ReadLine());
             Console.Write("Digite o segundo valor: ");
             float segundoValor = float.Parse(Console.ReadLine());
-            
+                
             float resultado = primeiroValor * segundoValor;
             
             Console.Write($"\nRESULTADO\n\n{primeiroValor} x {segundoValor} = {resultado}\n\n");
