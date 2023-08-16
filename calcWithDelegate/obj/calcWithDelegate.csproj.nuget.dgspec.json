@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\PrimeiroTeste\\Estudos-BNE.csproj": {}
+    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\calcWithDelegate\\calcWithDelegate.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\PrimeiroTeste\\Estudos-BNE.csproj": {
+    "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\calcWithDelegate\\calcWithDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\PrimeiroTeste\\Estudos-BNE.csproj",
-        "projectName": "Estudos-BNE",
-        "projectPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\PrimeiroTeste\\Estudos-BNE.csproj",
+        "projectUniqueName": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\calcWithDelegate\\calcWithDelegate.csproj",
+        "projectName": "calcWithDelegate",
+        "projectPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\calcWithDelegate\\calcWithDelegate.csproj",
         "packagesPath": "C:\\Users\\PC Gamer Derick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\PrimeiroTeste\\obj\\",
+        "outputPath": "C:\\Users\\PC Gamer Derick\\Desktop\\Projetos GIT\\Estudos-BNE\\calcWithDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC Gamer Derick\\AppData\\Roaming\\NuGet\\NuGet.Config"
