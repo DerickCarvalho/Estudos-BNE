@@ -1,0 +1,5 @@
+C:\Users\PC Gamer Derick\Desktop\Projetos GIT\Estudos-BNE\bankSistem\bin\Debug\net7.0\publish\bankSistem.exe
+C:\Users\PC Gamer Derick\Desktop\Projetos GIT\Estudos-BNE\bankSistem\bin\Debug\net7.0\publish\bankSistem.dll
+C:\Users\PC Gamer Derick\Desktop\Projetos GIT\Estudos-BNE\bankSistem\bin\Debug\net7.0\publish\bankSistem.deps.json
+C:\Users\PC Gamer Derick\Desktop\Projetos GIT\Estudos-BNE\bankSistem\bin\Debug\net7.0\publish\bankSistem.runtimeconfig.json
+C:\Users\PC Gamer Derick\Desktop\Projetos GIT\Estudos-BNE\bankSistem\bin\Debug\net7.0\publish\bankSistem.pdb
